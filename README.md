@@ -15,3 +15,11 @@ Check the [Wiki](https://github.com/laszlodaniel/SmartBatteryHack/wiki) for tuto
 
 More info about this project:  
 https://boundarycondition.home.blog/2020/01/18/the-repairing-and-hacking-of-a-dell-j1knd-bq8050-laptop-battery/
+
+
+For Toshiba PA3817U-1BRS:
+
+Connect pin 6 to 100ohm to arduino GND
+Connect pin 4 to 4.7kohm to arduino SDA
+Connect pin 3 to 4.7kohm to arduino SCL
+Connect pin 1 to 4.7kohm to arduino GND
